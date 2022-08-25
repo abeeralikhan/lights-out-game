@@ -7,3 +7,5 @@ Random lights are toggled on at the start of every round.
 Applied react js concepts such as passing props to child components, states, data flow from child to parent components using events. 
 
 ## Preview
+
+![game board](https://github.com/abeeralikhan/lights-out-game/blob/main/images/game-board.png?raw=true)
