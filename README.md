@@ -4,7 +4,9 @@ Lights Out is based on a deceptively simple concept. Clicking on a cell toggles 
 
 Random lights are toggled on at the start of every round.
 
-Applied react js concepts such as passing props to child components, handling component states, data flow from child to parent components using events. 
+Applied react js concepts such as passing props to child components, handling component states, data flow from child to parent components using events.
+
+[Play it live here](https://lights-out-game-abeer.netlify.app/)
 
 ## Preview
 - Game Board
