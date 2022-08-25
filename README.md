@@ -6,7 +6,7 @@ Random lights are toggled on at the start of every round.
 
 Applied react js concepts such as passing props to child components, handling component states, data flow from child to parent components using events.
 
-[Play it live here](https://lights-out-game-abeer.netlify.app/)
+[Play it live here](https://lights-out-game-abeer.netlify.app/){:target="_blank" rel="noopener"}
 
 ## Preview
 - Game Board
